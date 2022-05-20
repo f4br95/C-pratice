@@ -1,1 +1,1 @@
-Stack pratice in C.
+Data Structures pratice in C.
